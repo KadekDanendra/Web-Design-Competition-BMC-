@@ -2,7 +2,7 @@
 
 Website resmi **Tri Dharma Recovery** — perusahaan ekonomi sirkular berbasis di Bali yang mengolah limbah organik dan anorganik menjadi kompos, produk plastik daur ulang, dan furnitur reklamasi.
 
-Nama "Tri Dharma" mengacu pada filosofi Bali tentang tiga hubungan suci:
+Nama "Tri Dharma" mengacu pada filosofi Bali yaitu TRI HITA KARANA tentang tiga hubungan suci:
 - 🙏 **Parahyangan** — manusia ↔ Tuhan
 - 🤝 **Pawongan** — manusia ↔ sesama manusia
 - 🌱 **Palemahan** — manusia ↔ alam
