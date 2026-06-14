@@ -1,13 +1,5 @@
-  ## Running the code (cara menjalankan code)
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
-  ================================================================
   TDR — TRI DHARMA RECOVERY
   Referensi Brand & Aset
-  Terakhir diperbarui: 09 Juni 2026
 ================================================================
 
 TENTANG
