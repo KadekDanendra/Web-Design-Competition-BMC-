@@ -12,7 +12,7 @@ Nama "Tri Dharma" mengacu pada filosofi Bali yaitu TRI HITA KARANA tentang tiga 
 ## 🔗 Link
 
 - 🌐 **Live Preview:** https://tri-darma-recovery.vercel.app/
-- 💻 **GitHub:** https://github.com/KadekDanendra/Web-Design-Competition-BMC-
+- 💻 **GitHub:** https://github.com/KadekDanendra/Web-Design-Competition-BMC
 
 ---
 
