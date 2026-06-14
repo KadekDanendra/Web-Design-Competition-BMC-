@@ -1,6 +1,6 @@
 # 🌿 Tri Dharma Recovery (TDR)
 
-Website resmi **Tri Dharma Recovery** — perusahaan ekonomi sirkular berbasis di Bali yang mengolah limbah organik dan anorganik menjadi kompos, produk plastik daur ulang, dan furnitur reklamasi.
+Website resmi **Tri Dharma Recovery** — perusahaan ekonomi sirkular berbasis di Bali yang mengolah limbah organik dan anorganik menjadi kompos, produk plastik daur ulang.
 
 Nama "Tri Dharma" mengacu pada filosofi Bali yaitu TRI HITA KARANA tentang tiga hubungan suci:
 - 🙏 **Parahyangan** — manusia ↔ Tuhan
@@ -49,3 +49,4 @@ npm run build
 
 **Kadek Danendra**
 Lomba Web Design BMC 2026
+
