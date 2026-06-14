@@ -49,4 +49,3 @@ npm run build
 
 **Kadek Danendra**
 Lomba Web Design BMC 2026
-
